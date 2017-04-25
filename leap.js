@@ -5,7 +5,7 @@ const Leap = require('leapjs');
 const fetch = require('node-fetch');
 
 const env = process.env.ENVIRONMENT || 'heroku';
-const host = env === 'heroku' ? 'https://fox-hologram.herokuapp.com' : 'http://localhost:3000';
+const host = env === 'heroku' ? 'https://bologram.herokuapp.com' : 'http://localhost:3000';
 
 
 let lastFrame = null;
