@@ -18,7 +18,7 @@ You will also need node.js and yarn.
 2. Run `yarn install`
 3. Push repo to Heroku
 4. Copy your Heroku URL
-5. Go to the leap.js file and replace the host ('https://fox-hologram.herokuapp.com') with your own heroku
+5. Go to the leap.js file and replace the host ('https://bologram.herokuapp.com') with your own heroku
 6. Plug the leap motion sensor to the laptop
 7. Run `yarn run leap`
 8. Visit your Heroku site on your mobile device
